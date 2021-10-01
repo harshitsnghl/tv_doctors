@@ -2,6 +2,7 @@
   "name": "tv-doctors-server",
   "version": "0.0.0",
   "private": true,
+  "author": "Harshit Singhal",
   "scripts": {
     "start": "node ./bin/www"
   },
