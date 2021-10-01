@@ -35,3 +35,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 #### `npm start`
 
 Rolls the express server to serve the api endpoints to fetch the data.
+Open [http://localhost:3001](http://localhost:3001) to check if the server is up and running.
