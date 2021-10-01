@@ -1,0 +1,37 @@
+:root {
+	font-size: 16px;
+	--text-primary: black;
+	--text-secondary: rgb(277, 111, 123);
+	--bg-primary: #efefef;
+	--bg-secondary: rgb(46, 45, 45);
+	--transition-speed: 600ms;
+	font-size: 16px;
+}
+
+html {
+	scroll-behavior: smooth;
+	background-color: var(--bg-primary);
+}
+
+h6 {
+	font-size: xx-small;
+	font-weight: 100;
+}
+
+body {
+	background-color: var(--bg-primary);
+	color: white;
+}
+
+.button {
+	color: white;
+}
+
+.navbar {
+	background-color: #40484f;
+	padding: 1rem 1.5rem;
+}
+
+#doctor-cards-block {
+	background-color: var(--bg-primary);
+}

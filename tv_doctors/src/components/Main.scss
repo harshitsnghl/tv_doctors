@@ -1,0 +1,48 @@
+.btn {
+	width: min-content;
+}
+
+.dropdown-menu {
+	max-height: 300px;
+	overflow-y: scroll;
+}
+
+.user-icon {
+	transform: scale(1.2);
+	margin-right: 0.5rem;
+	color: #ffffff;
+	padding-top: 0.1rem;
+}
+
+#filter-bar {
+	background-color: white;
+	padding: 1rem 7.5rem;
+}
+
+.filter-button {
+	height: min-content;
+}
+
+.brand {
+	font-weight: 800;
+	font-size: 0.9rem;
+}
+
+.login-button {
+	font-size: 0.8rem;
+	font-weight: 300;
+}
+
+.caret {
+	color: #ffffff;
+	margin-left: 0.5rem;
+}
+
+#doctor-cards-block {
+	background-color: var(--bg-primary);
+}
+
+.filter-caret {
+	margin-left: 0.25rem;
+	margin-top: 0.25rem;
+}
